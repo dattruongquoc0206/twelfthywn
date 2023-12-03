@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @twelfthywn
 - 👀 I’m interested in Data and Bussiness
-- 🌱 You can visit my website here: twelfthywn.space. But UI is comming
-- 💞️ I’m looking to collaborate on BigData and Data Science
+- 🌱 You can visit my website here: twelfthywn.space.
+- 💞️ I’m looking to collaborate on Big Data and Data Science (plus in finance and solutions)
 - 📫 How to reach me tqd.dev@gmail.com
 
 <!---
